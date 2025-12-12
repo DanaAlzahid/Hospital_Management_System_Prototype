@@ -27,12 +27,12 @@ The AI recommender is **simulated using predefined rule-based logic** for demons
   *(or Visual Studio Code with C# extensions)*
 
 ### Steps
-1. Open the solution file: **HMS_AI_Prototype.sln** in Visual Studio.  
+1. Open the solution file: **HMS_AI_Prototype.sln** in Visual Studio. (through downloading the zipped file)  
 2. Build the project.  
 3. Run the application.  
 4. Log in using the demo credentials:
 
-   **Email:** admin@hms.com  
+   **Email:** admin 
    **Password:** 1234  
 
    *These are the default demo credentials used to access the prototype when running the application.*
